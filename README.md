@@ -1,4 +1,4 @@
-# Git_Study
+# Git Study
 Repository for Git Study
 
 # Git Documentation
