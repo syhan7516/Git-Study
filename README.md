@@ -1,5 +1,5 @@
-# Git Study
-Repository for Git Study
+# Git-Study
+📚 Git 공부를 위한 저장소
 
-# Git Documentation
-https://git-scm.com/doc
+# Git-Documentation
+📃 Git Doc : https://git-scm.com/doc
